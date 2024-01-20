@@ -481,6 +481,8 @@
 /* Support for Jellyscrub plugin */
 .chapterThumbContainer {
     border-radius: 15px !important;
+.chapterThumbTextContainer {
+    background-color: rgba(0,0,0,0.5) !important;
 }
 
 
